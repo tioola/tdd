@@ -6,11 +6,8 @@
 
 == Difference of School
 
-[plantuml]
-----
 @startuml
 :actor1: --> (Usecase1)
 newpage
 :actor2: --> (Usecase2)
 @enduml
-----
