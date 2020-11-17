@@ -1,0 +1,16 @@
+== Definition of Unit Test
+
+* Verify a small piece of code (also known as a unit).
+* Does it quickly.
+* Does it in an isolated manner.
+
+== Difference of School
+
+[plantuml]
+----
+@startuml
+:actor1: --> (Usecase1)
+newpage
+:actor2: --> (Usecase2)
+@enduml
+----
